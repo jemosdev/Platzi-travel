@@ -14,21 +14,19 @@ This project is the responsive Platzi Travel website, created using TailwindCSS.
 ### **Views:**
 
 #### -Blog Home:
-![](D:\programming\platzi\codes\frontend\cursomobilefirst\assets\Clipboard01.jpg)
+![](https://github.com/jemosdev/Platzi-travel/blob/main/Clipboard05.jpg)
 
 #### -Blogposts:
-![](D:\programming\platzi\codes\frontend\cursomobilefirst\assets\Clipboard02.jpg)
+![](https://github.com/jemosdev/Platzi-travel/blob/main/Clipboard01.jpg)
 
 #### -Blogposts:
-![](D:\programming\platzi\codes\frontend\cursomobilefirst\assets\Clipboard03.jpg)
+![](https://github.com/jemosdev/Platzi-travel/blob/main/Clipboard02.jpg)
 
 #### -Blogpost:
-![](D:\programming\platzi\codes\frontend\cursomobilefirst\assets\Clipboard04.jpg)
+![](https://github.com/jemosdev/Platzi-travel/blob/main/Clipboard03.jpg)
 
 #### -Blogpost:
-![](D:\programming\platzi\codes\frontend\cursomobilefirst\assets\Clipboard05.jpg)
+![](https://github.com/jemosdev/Platzi-travel/blob/main/Clipboard04.jpg)
 
-#### -About me:
-![](D:\programming\platzi\codes\frontend\cursomobilefirst\assets\Clipboard06.jpg)
 
 ### Author: jemosdev
